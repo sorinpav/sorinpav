@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am working full time as a frontend software engineer using React, but when I get a bit of time, I try to work on personal projects. 
+- currently training myself with NextJS, through a room booking app that I started from a tutorial and customised myself. 
 
 <!--
 **sorinpav/sorinpav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
