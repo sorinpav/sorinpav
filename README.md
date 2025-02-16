@@ -1,6 +1,11 @@
 ## Hi there 👋
 I am working full time as a frontend software engineer using React, but when I get a bit of time, I try to work on personal projects. 
-- currently training myself with NextJS, through a room booking app that I started from a tutorial and customised myself. 
+- currently familiarising myself with NextJS
+
+Recently finished project(s):
+https://bookit-app-flax.vercel.app/
+This is a conference room booking website using NextJS, with an authentication layer. It supports checking room availability and does not let the users have overlapping bookings. 
+
 
 Support me here: https://www.buymeacoffee.com/sorinpav
 <!--
