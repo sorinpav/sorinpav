@@ -4,6 +4,7 @@ I am working full time as a frontend software engineer using React, but when I g
 
 Recently finished project(s):
 https://bookit-app-flax.vercel.app/
+
 This is a conference room booking website using NextJS, with an authentication layer. It supports checking room availability and does not let the users have overlapping bookings. 
 
 
