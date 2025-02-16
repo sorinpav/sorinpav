@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am working full time as a frontend software engineer using React, but when I get a bit of time, I try to work on personal projects. 
+I am working full time as a frontend software engineer using React. I am normally building proprietary software that is sold to other companies, but when I get a bit of time, I try to work on personal projects. 
 - currently familiarising myself with NextJS
 
 Recently finished project(s):
